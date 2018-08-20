@@ -1,5 +1,9 @@
 ## Demo for the Truffle Webpack
 
+## Default account have 1000 metacoins
+
+All u have to do is import the account[0] then have some fun
+
 
 ## Log
 
@@ -17,5 +21,7 @@ August 20, 2018 10:29 am
   Run linter:           `npm run lint`
   Run dev server:       `npm run dev`
   Build for production: `npm run build`
+  
+  
   
   
